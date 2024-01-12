@@ -8,7 +8,7 @@ def multiply(x,y):
     return x*y
 
 def divide(x,y):
-    return x/z
+    return x/y
 
 def word(name):
     return f"Hello, {name}"
